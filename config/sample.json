@@ -1,0 +1,9 @@
+{
+	"database": {
+		"user": "global-events-db-user",
+		"password": "FakePassword123",
+		"url": "url.fake-mongo-db.com",
+		"port": "43892",
+		"name": "global-events"
+	}
+}
